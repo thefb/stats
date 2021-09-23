@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@types/node": "^16.9.6",
+    "fs": "^0.0.1-security",
     "typescript": "^4.4.3"
   }
 }
